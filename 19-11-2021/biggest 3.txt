@@ -1,0 +1,5 @@
+v1=int(input("Enter the value 1:"))
+v2=l=int(input("Enter the value 2:"))
+v3=l=int(input("Enter the value 3:"))
+print("Largest Value is:")
+print(max(v1,v2,v3))
